@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "pass1",
+      "expired": "2025-12-31"
+    }
+  ],
+  "resellers": [
+    {
+      "username": "reseller1",
+      "password": "res123",
+      "expired": "2025-12-31"
+    }
+  ],
+  "partners": [
+    {
+      "username": "partner1",
+      "password": "part123",
+      "expired": "2025-12-31"
+    }
+  ],
+  "moderators": [
+    {
+      "username": "mod1",
+      "password": "mod123",
+      "expired": "2025-12-31"
+    }
+  ],
+  "svips": [
+    {
+      "username": "svip1",
+      "password": "svip123",
+      "expired": "2025-12-31"
+    }
+  ],
+  "ceos": [
+    {
+      "username": "ceo1",
+      "password": "ceo123",
+      "expired": "2025-12-31"
+    }
+  ],
+  "owners": [
+    {
+      "username": "owner1",
+      "password": "owner123",
+      "expired": "2025-12-31"
+    }
+  ]
+}

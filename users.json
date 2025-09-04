@@ -34,5 +34,12 @@
     "password": "ultimate",
     "role": "svip",
     "expiredAt": "2025-11-11T23:59:59Z"
+  },
+  {
+    "username": "len",
+    "password": "PMLE",
+    "role": "member",
+    "telegram_id": "6677983204",
+    "expiredDate": "2025-10-04T07:30:44.517Z"
   }
 ]
